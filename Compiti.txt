@@ -1,0 +1,1 @@
+Controllare che esista il plugin proxy config. Gestire la presenza o meno del plugin.
